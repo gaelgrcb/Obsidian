@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "e7af85236b310252",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc01d741893564da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06043fb0fa578729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Sistema de archivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c3d479762f93c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "29708dc3288e33f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3864ba301fadeec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "1d0180823cf2613f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f3432e84c1cf421",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b84ce1d1e4247b56",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a20c59d4b02cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a52bedfa8ac7401",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Sistema de archivos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "246c184d3175a8d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Sistema de archivos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "582ea0af6857a2a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1166bfafd4f96dc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Sistema de archivos.md"
+              }
+            }
+          },
+          {
+            "id": "1c5f0e0234c22bac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e3864ba301fadeec",
+  "lastOpenFiles": [
+    "Linux/Permisos y Usuarios.md",
+    "Linux/Introduccion.md",
+    "Linux/Procesos.md",
+    "Sin título.md",
+    "Linux/Sistema de archivos.md",
+    "Imagenes de apoyo/Pasted image 20240622155628.png",
+    "Imagenes de apoyo/Pasted image 20240622155609.png",
+    "Python",
+    "Imagenes de apoyo/Pasted image 20240622135105.png",
+    "Imagenes de apoyo",
+    "Pasted image 20240622134657.png",
+    "Pasted image 20240622134702.png",
+    "Linux/Introduccion",
+    "Linux"
+  ]
+}
