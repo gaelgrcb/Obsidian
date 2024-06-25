@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Sistema de archivos.md",
+                "file": "SQL/Comandos básicos para SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Sistema de archivos.md",
+                "file": "SQL/Comandos básicos para SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Sistema de archivos.md",
+                "file": "SQL/Comandos básicos para SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Sistema de archivos.md"
+                "file": "SQL/Comandos básicos para SQL.md"
               }
             }
           },
@@ -158,11 +158,17 @@
   },
   "active": "e3864ba301fadeec",
   "lastOpenFiles": [
-    "Linux/Permisos y Usuarios.md",
+    "Imagenes de apoyo/Pasted image 20240625103857.png",
+    "Imagenes de apoyo/Pasted image 20240625103850.png",
+    "Imagenes de apoyo/Pasted image 20240625103845.png",
+    "php/Introduccion.md",
+    "SQL/Comandos básicos para SQL.md",
+    "SQL",
     "Linux/Introduccion.md",
+    "Linux/Permisos y Usuarios.md",
     "Linux/Procesos.md",
-    "Sin título.md",
     "Linux/Sistema de archivos.md",
+    "Sin título.md",
     "Imagenes de apoyo/Pasted image 20240622155628.png",
     "Imagenes de apoyo/Pasted image 20240622155609.png",
     "Python",
