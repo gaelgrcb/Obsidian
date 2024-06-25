@@ -13,14 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Comandos básicos para SQL.md",
+                "file": "Linux/Procesos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0167ba4bf8d2c787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git y GitHub.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Comandos básicos para SQL.md",
+                "file": "Git y GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Comandos básicos para SQL.md",
+                "file": "Git y GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Comandos básicos para SQL.md"
+                "file": "Git y GitHub.md"
               }
             }
           },
@@ -156,19 +168,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e3864ba301fadeec",
+  "active": "0167ba4bf8d2c787",
   "lastOpenFiles": [
+    "Linux/Procesos.md",
+    "Git y GitHub.md",
+    "Linux/Permisos y Usuarios.md",
+    "SQL/Comandos básicos para SQL.md",
     "Imagenes de apoyo/Pasted image 20240625103857.png",
     "Imagenes de apoyo/Pasted image 20240625103850.png",
     "Imagenes de apoyo/Pasted image 20240625103845.png",
     "php/Introduccion.md",
-    "SQL/Comandos básicos para SQL.md",
     "SQL",
     "Linux/Introduccion.md",
-    "Linux/Permisos y Usuarios.md",
-    "Linux/Procesos.md",
     "Linux/Sistema de archivos.md",
-    "Sin título.md",
     "Imagenes de apoyo/Pasted image 20240622155628.png",
     "Imagenes de apoyo/Pasted image 20240622155609.png",
     "Python",
