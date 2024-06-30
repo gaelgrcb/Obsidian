@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06043fb0fa578729",
+            "id": "8cc9f904f7408798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Procesos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0167ba4bf8d2c787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git y GitHub.md",
+                "file": "JavaScript/Introducción a JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git y GitHub.md",
+                "file": "JavaScript/Introducción a JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git y GitHub.md",
+                "file": "JavaScript/Introducción a JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git y GitHub.md"
+                "file": "JavaScript/Introducción a JavaScript.md"
               }
             }
           },
@@ -168,16 +155,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0167ba4bf8d2c787",
+  "active": "8cc9f904f7408798",
   "lastOpenFiles": [
-    "Linux/Procesos.md",
+    "Pasted image 20240629225838.png",
+    "Pasted image 20240629225827.png",
+    "JAVASCRIPT.md",
+    "JavaScript/Introducción a JavaScript.md",
+    "JavaScript",
+    "php/Introduccion.md",
     "Git y GitHub.md",
+    "Linux/Procesos.md",
     "Linux/Permisos y Usuarios.md",
     "SQL/Comandos básicos para SQL.md",
     "Imagenes de apoyo/Pasted image 20240625103857.png",
     "Imagenes de apoyo/Pasted image 20240625103850.png",
     "Imagenes de apoyo/Pasted image 20240625103845.png",
-    "php/Introduccion.md",
     "SQL",
     "Linux/Introduccion.md",
     "Linux/Sistema de archivos.md",
